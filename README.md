@@ -19,7 +19,7 @@ b) Categorias
 - Contructor Pattern
 - Singleton
 - Factory
-- Module
+- Module Pattern
 - Mixin Pattern
 - Namespace
 - Mediator
